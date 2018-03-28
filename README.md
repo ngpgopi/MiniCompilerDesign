@@ -2,13 +2,13 @@
 
 ## _Authors_
 
+Gopi Krishnan Narasimha Guptha: gnaras2@uic.edu 
+
 Vishwanath Muddu : vmuddu2@uic.edu
 
 Adarsh Ratnakar Hegde: ahegde5@uic.edu
 
 Sachin Hegde: shegde8@uic.edu
-
-Gopi Krishnan Narasimha Guptha: gnaras2@uic.edu 
 
 ## _Objective_
 To develop a randomly generated program that adheres to the Java Language Specification and Java grammar rules. The randomly generated code can be compiled, however the generate code is a meaning less program that has no logic to itself. The Application was built using the Java programming language that supports Java 1.8 JDK. IntelliJ has been promising over the years with cool features that improves dev time, so IntelliJ was the ideal IDE for us to start working on the project. 
@@ -253,3 +253,4 @@ As the readXmlFile method is invoked in the constructor, all the getter methods 
 ## _Known Issues_
 _None_
 
+Cloned from BitBucket : https://ngpgopi@bitbucket.org/v-Muddu/vishwanath_muddu_adarsh_hegde_sachin_hegde_gopi_krishnan.git
